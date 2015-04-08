@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="100d057c-f7ba-4c3a-a065-f2409b81d985" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GildedRose.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +37,13 @@
       <file leaf-file-name="GildedRose.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4201031">
-              <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.8646907">
+              <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
               <folding>
                 <element signature="e#99#100#0" expanded="true" />
                 <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#2101#2102#0" expanded="true" />
+                <element signature="e#2146#2147#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -489,11 +490,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4201031">
-          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.8646907">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
           <folding>
             <element signature="e#99#100#0" expanded="true" />
             <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#2101#2102#0" expanded="true" />
+            <element signature="e#2146#2147#0" expanded="true" />
           </folding>
         </state>
       </provider>
